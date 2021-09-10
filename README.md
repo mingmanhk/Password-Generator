@@ -1,4 +1,4 @@
-# Bootcamp-HW3
+# Password-Generator
 
 Published github Repo:
 https://github.com/mingmanhk/Password-Generator
